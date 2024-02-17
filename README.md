@@ -5,7 +5,7 @@
  <div align="center">
   <a href="https://github.com/Samuel-Araujo-Silveira"> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Araujo-Silveira&show_icons=true&theme=algolia"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Araujo-Silveira&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+ 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Araujo-Silveira&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 <br>
