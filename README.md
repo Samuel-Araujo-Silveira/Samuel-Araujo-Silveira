@@ -36,7 +36,7 @@
 <br>
 
 ## Minhas Estatísticas:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rodrigo-Cn&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samuel-Araujo-Silveira&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Araujo-Silveira&bg_color=0d1117&color=3940f3&line=003beb&point=6b9cc2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
